@@ -1,2 +1,2 @@
 # jogo-do-Dino-e-o-Pato
-Atividade Dio - Philips
+Desafio Jogo do dinossauro: Dio - Philips
